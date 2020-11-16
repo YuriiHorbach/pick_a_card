@@ -3,5 +3,3 @@ suits = ["\u2666", "\u2665", "\u2663", "\u2660"]
 
 puts "#{values.sample}#{suits.sample.encode('utf-8')}"
 #
-# checkmark = "\u2666"
-# puts checkmark.encode('utf-8')
